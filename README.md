@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<iframe src="https://giphy.com/embed/0OPICyumWkGJbeeF3I" width="291" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/0OPICyumWkGJbeeF3I">via GIPHY</a></p>
+![](HelloWorld.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
